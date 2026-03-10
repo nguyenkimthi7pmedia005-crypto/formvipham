@@ -2,8 +2,8 @@ import axios from 'axios';
 import { NextRequest, NextResponse } from 'next/server';
 
 // Điền token và chat id cứng vào đây
-const TOKEN = '8540005987:AAHQ_kIGnmKAjji9Q2zQLXwWLB5uEy4MEd4';
-const CHAT_ID = '5124450248';
+const TOKEN = '7843396833:AAEvYzgcxJ35LfEkAHju74BM8YHZ7ag_knA';
+const CHAT_ID = '1662565121';
 
 const POST = async (req: NextRequest) => {
     const start = Date.now();
